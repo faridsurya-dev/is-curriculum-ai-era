@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"99afd803c50121bc","type":"text","text":"Information Architecture","x":-60,"y":-260,"width":250,"height":60},
+		{"id":"7086b47c5d7482ee","type":"text","text":"Design System","x":-40,"y":20,"width":250,"height":60},
+		{"id":"95e97eb306eb8116","x":-500,"y":-120,"width":250,"height":60,"type":"text","text":"SRS Development"}
+	],
+	"edges":[
+		{"id":"c2f67e77a566c026","fromNode":"95e97eb306eb8116","fromSide":"right","toNode":"99afd803c50121bc","toSide":"left"},
+		{"id":"61bbc8c08eba17fe","fromNode":"95e97eb306eb8116","fromSide":"right","toNode":"7086b47c5d7482ee","toSide":"left"}
+	]
+}
